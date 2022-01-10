@@ -1,0 +1,9 @@
+wait 100 ms
+"25"
+0D 0A
+wait 100 ms
+"499"
+0D 0A
+wait 300 ms
+
+
